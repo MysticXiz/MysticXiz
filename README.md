@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Bruno Almeida!
 
-💻 Estudante de Ciência da Computação | 👨‍🏫 Entusiasta da Educação e Tecnologia | 🚀 Explorador de IA, Web e Automação
+💻 Estudante de Ciência da Computação | 👨‍🏫 Entusiasta de Tecnologia | 🚀 Explorador de IA, Web e Automação
 
 ---
 
