@@ -31,7 +31,7 @@
 ## 🔍 Áreas de Interesse
 
 - 🤖 **Inteligência Artificial** 
-- 🌐 **Desenvolvimento Web** com Angular e Bootstrap
+- 🌐 **Desenvolvimento Web** com Angular, Express e Bootstrap
 - 🧩 **Automação de tarefas** com Python
 
 ---
