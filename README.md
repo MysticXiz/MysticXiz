@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou Bruno Almeida!
 
-💻 Estudante de Ciência da Computação | 👨‍🏫 Entusiasta de Tecnologia | 🚀 Explorador de IA, Web e Automação
+💻 Estudante de Ciência da Computação | 👨‍🏫 Entusiasta de Tecnologia | 🚀 Explorador de IA, Ciência de Dados e Web
 
 ---
 
 ## ✨ Sobre mim
 
 - 🎓 Atualmente cursando o **6º período de Ciência da Computação**
-- 🧠 Apaixonado por **tecnologia**, **automação**, **inteligência artificial** e **desenvolvimento web**
+- 🧠 Apaixonado por **tecnologia**, **inteligência Artificial**, **Ciência de Dados** e **desenvolvimento Web**
 - 🔧 Em constante aprendizado — sempre explorando novas ferramentas e linguagens
 - 🎮 Gosto de jogos, interfaces bonitas e soluções práticas para problemas do dia a dia
 
