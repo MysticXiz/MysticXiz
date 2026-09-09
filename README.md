@@ -6,7 +6,7 @@
 
 ## ✨ Sobre mim
 
-- 🎓 Atualmente cursando o **6º período de Ciência da Computação**
+- 🎓 Atualmente cursando o **8º período de Ciência da Computação**
 - 🧠 Apaixonado por **tecnologia**, **inteligência Artificial**, **Ciência de Dados** e **desenvolvimento Web**
 - 🔧 Em constante aprendizado — sempre explorando novas ferramentas e linguagens
 - 🎮 Gosto de jogos, interfaces bonitas e soluções práticas para problemas do dia a dia
