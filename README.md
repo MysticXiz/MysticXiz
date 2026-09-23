@@ -10,6 +10,8 @@
 - 💻 Focado em **desenvolvimento Full Stack**, criando aplicações web completas, funcionais e intuitivas
 - 🐍 Experiência com **Python e FastAPI** no desenvolvimento de APIs e back-end
 - 🌐 Também atuo no desenvolvimento de interfaces e aplicações web com **JavaScript e Angular**
+- 🐳 Utilizo **Docker** no desenvolvimento e na configuração de ambientes
+- ☁️ Estudando **AWS** e me preparando para aprofundar minha experiência prática em computação em nuvem
 - 🔧 Em constante aprendizado, explorando novas ferramentas e boas práticas de desenvolvimento
 - 🎮 Gosto de jogos, interfaces bonitas e soluções práticas para problemas do dia a dia
 
@@ -31,6 +33,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
+### DevOps e Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+> Docker: uso prático no desenvolvimento e na configuração de ambientes. AWS: conhecimentos em estudo e preparação para experiência prática em cloud.
+
 ### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -43,6 +52,8 @@
 - 🚀 **Desenvolvimento Full Stack**
 - 🐍 **Desenvolvimento de APIs e back-end com Python e FastAPI**
 - 🌐 **Desenvolvimento Web com JavaScript e Angular**
+- 🐳 **Containerização e ambientes de desenvolvimento com Docker**
+- ☁️ **Computação em nuvem com AWS**
 - 🎨 **Criação de interfaces funcionais e intuitivas**
 
 ---
