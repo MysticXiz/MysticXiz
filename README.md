@@ -9,7 +9,7 @@
 - 🎓 Atualmente cursando o **8º período de Ciência da Computação**
 - 💻 Focado em **desenvolvimento Full Stack**, criando aplicações web completas, funcionais e intuitivas
 - 🐍 Experiência com **Python e FastAPI** no desenvolvimento de APIs e back-end
-- 🌐 Também atuo no desenvolvimento de interfaces e aplicações web com **JavaScript e Angular**
+- 🌐 Desenvolvo interfaces e aplicações web com **TypeScript e Angular**
 - 🐳 Utilizo **Docker** no desenvolvimento e na configuração de ambientes
 - ☁️ Estudando **AWS** e me preparando para aprofundar minha experiência prática em computação em nuvem
 - 🔧 Em constante aprendizado, explorando novas ferramentas e boas práticas de desenvolvimento
@@ -27,8 +27,9 @@
 
 ### Front-end
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -51,7 +52,7 @@
 
 - 🚀 **Desenvolvimento Full Stack**
 - 🐍 **Desenvolvimento de APIs e back-end com Python e FastAPI**
-- 🌐 **Desenvolvimento Web com JavaScript e Angular**
+- 🌐 **Desenvolvimento Front-end com TypeScript e Angular**
 - 🐳 **Containerização e ambientes de desenvolvimento com Docker**
 - ☁️ **Computação em nuvem com AWS**
 - 🎨 **Criação de interfaces funcionais e intuitivas**
